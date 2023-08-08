@@ -1,1 +1,1 @@
-![LoginForm01](https://github.com/LitoWebs/LoginForm01/blob/e641e1cf259d46ed7edb9770a29848fb70dcbda3/preview.png)
+![LoginForm01](https://github.com/LitoWebs/SlidingTabs/blob/f0a10599f4927e8806357d236eaad0f16733414d/preview.png)
